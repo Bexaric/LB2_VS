@@ -248,5 +248,4 @@
 
 ## Демонстрация работы панели
 
-![Google_Dino.gif](Google_Dino.gif)
- 
+![Aper_zvevo_2_por_mini.gif](Aper_zvevo_2_por_mini.gif)
