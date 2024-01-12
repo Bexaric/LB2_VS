@@ -11,13 +11,15 @@
 
 Код для программы был написал на языке **С**. Для реализации прыжка была использована кнопка на отладочной плате.
 
-Листинги программного кода для математических расчётов и отправки данных можно посмотреть в директории `Project_LB1/Core/Src` в файлах [main.c](Lab_1/Lab_5_fix/Core/Src/main.c), [stm32f4xx_it.c](Lab_1/Lab_5_fix/Core/Src/stm32f4xx_it.c) и [stm32f4xx_it.c](Lab_1/Lab_5_fix/Core/Src/stm32f4xx_it.c).
+Листинги программного кода для математических расчётов и отправки данных можно посмотреть в директории `LB2_Rc103/Core/Src` в файлах [main.c](LB2_Rc103/Core/Src/main.c) и [stm32f4xx_it.c](LB2_Rc103/Core/Src/stm32f1xx_it.c). И код для работы приема данных [usbd_cdc_if.c](LB2_Rc103/USB_DEVICE/App/usbd_cdc_if.c).
 
-Листинги программного кода для приема данных и отрисовки графика можно посмотреть в директории `Project_LB1/Core/Src` в файлах [main.c](Lab_1/Lab_5_fix/Core/Src/main.c), [stm32f4xx_it.c](Lab_1/Lab_5_fix/Core/Src/stm32f4xx_it.c) и [stm32f4xx_it.c](Lab_1/Lab_5_fix/Core/Src/stm32f4xx_it.c).
+Листинги программного кода для приема данных и отрисовки графика можно посмотреть в директории `LB2_Tr103/Core/Src` в файлах [main.c](LB2_Tr103/Core/Src/main.c) и [stm32f4xx_it.c](LB2_Tr103/Core/Src/stm32f1xx_it.c).
 
-Отчёт к данной работе: <https://docs.google.com/document/d/1bmmBl_UGj2rrcNi57MLyHoi01FUQnBxSzopLlw7OWnQ/edit>
+Листинг программного кода на Python для передачи с одного COM-порта на другой [main.py](Python_script/main.py)
 
-Видео-отчёт: [Google_Dino.mp4](Google_Dino.mp4)
+Отчёт к данной работе: <https://docs.google.com/document/d/1JGWPNFt0bkKq0dOrncussmQa2vWEjVuk1AvVWW3noRc/edit>
+
+Видео-отчёт: [Aper_zveno_2_por.mp4](Aper_zveno_2_por.mp4)
 
 ### ***Universal Serial Bus*** или ***USB***. Основные моменты
 **USB** (англ. *Universal Serial Bus* — «универсальная последовательная шина») — последовательный интерфейс для подключения периферийных устройств к вычислительной технике. Получил широчайшее распространение и стал основным интерфейсом подключения периферии к бытовой цифровой технике.
